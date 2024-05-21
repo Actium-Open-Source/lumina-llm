@@ -10,9 +10,7 @@ import time
 import urllib.request
 
 
-MASTER_CONFIG = {
-
-}
+MASTER_CONFIG = {}
 
 url = "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt"
 filename = "tinyshakespeare.txt"
